@@ -1,0 +1,33 @@
+{
+  "title": "CertifyX - Blockchain Certificate Platform",
+  "admin": {
+    "dashboard": "Admin Dashboard",
+    "issueCertificate": "Issue Certificate",
+    "learnerName": "Learner Name",
+    "qualification": "Qualification",
+    "institution": "Institution",
+    "learnerAddress": "Learner Wallet Address",
+    "issue": "Issue Certificate",
+    "success": "Certificate issued successfully!",
+    "error": "Failed to issue certificate"
+  },
+  "learner": {
+    "certificates": "My Certificates",
+    "noCertificates": "No certificates found",
+    "download": "Download QR Code"
+  },
+  "verifier": {
+    "title": "Certificate Verification",
+    "scanQR": "Scan QR Code",
+    "enterID": "Enter Certificate ID",
+    "verify": "Verify Certificate",
+    "valid": "Certificate is valid",
+    "invalid": "Certificate not found or invalid",
+    "details": "Certificate Details"
+  },
+  "common": {
+    "loading": "Loading...",
+    "connect": "Connect Wallet",
+    "disconnect": "Disconnect"
+  }
+}
